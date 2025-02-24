@@ -65,6 +65,7 @@ If your country or region is not on this list, then we aren't currently able to 
 <li>Hungary</li>
 <li>Iceland</li>
 <li>India</li>
+<li>indonesia</li>
 <li>Ireland</li>
 <li>Israel</li>
 <li>Italy</li>
